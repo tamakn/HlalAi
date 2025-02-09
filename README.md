@@ -2,7 +2,7 @@
 
 **Hlalai AI** is an independent, **open-source Arabic AI model** designed to be trained **by Arabs, for Arabs**. Unlike proprietary models like OpenAI’s **GPT** or Google’s **Gemini**, Hlalai AI is a **community-driven initiative** that preserves **Arabic culture, language, and traditions**.
 
-🚀 **Developed under Saudi Vision 2030 and supported by Tamakn Technology**, this AI model is designed to **understand Arabic dialects, historical context, and cultural nuances**, making it the first truly **Arabic-native AI**.
+🚀 **Developed under Saudi Vision 2030 and supported by Tamakan Technology**, this AI model is designed to **understand Arabic dialects, historical context, and cultural nuances**, making it the first truly **Arabic-native AI**.
 
 ## 🌍 Overview
 
