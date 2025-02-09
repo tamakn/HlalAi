@@ -73,7 +73,7 @@ To contribute to or run Hlalai AI locally, you'll need:
 
     Clone the Repository:
 
-    git clone https://github.com/yourusername/Hlalai.git
+    git clone https://github.com/tamakan/Hlalai.git
     cd Hlalai
 
     Open the Project: Simply open index.html in your browser to view the demo UI.
